@@ -1,1 +1,1 @@
-# config-server
+# bcp-bootcamp-configserver
